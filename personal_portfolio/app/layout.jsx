@@ -2,7 +2,6 @@ import {JetBrains_Mono, Inter} from "next/font/google";
 import "./globals.css";
 
 import Header from "@/components/Header";
-import { Page } from "openai/pagination";
 import PageTransition from "@/components/PageTransition";
 import StairTransition from "@/components/StairTransition";
 
