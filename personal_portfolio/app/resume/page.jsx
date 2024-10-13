@@ -11,7 +11,7 @@ const Resume = () => {
             {/* PDF Embed Section */}
             <div className="pdf-wrapper w-full h-[80vh] max-w-4xl">
                 <iframe
-                    src="/assets/resume.pdf"  // Make sure the path to the PDF is correct
+                    src="/assets/resume1.0.pdf"  // Make sure the path to the PDF is correct
                     width="100%"
                     height="100%"
                     title="Archi Mehta Resume"
